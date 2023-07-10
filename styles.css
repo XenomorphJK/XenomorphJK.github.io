@@ -8,7 +8,7 @@ html {
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
-  background-image: url("./images/banner-landingpage.jpg"); 
+  background-image: url("https://github.com/XenomorphJK/XenomorphJK.github.io/blob/main/images/banner-landingpage.jpg"); 
 }
 
 .center {
