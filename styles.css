@@ -8,6 +8,7 @@ html {
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
+  background-image: url("./images/banner-landingpage.jpg"); 
 }
 
 .center {
@@ -112,12 +113,7 @@ header .mobile {
   }
 }
 
-/* banner */
 
-body {
-  background-image: url("./images/banner-landingpage.jpg");
-  background-color: #cccccc;
-}
 
 
 /* Sign Up Section */
