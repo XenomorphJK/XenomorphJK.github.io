@@ -1,7 +1,49 @@
-.header {
- background-image: url("https://media.istockphoto.com/id/1444369031/photo/3d-illustration-of-bayraktar-tb2-unmanned-combat-aerial-vehicle-ucav-frontal-close-up-view.webp?b=1&s=170667a&w=0&k=20&c=zL-YRwVqi1uU0VP6wAqLEUQjqJYQ3qcUvMIayuq8vrE=");
-background-color: #cccccc;
-background-repeat: no-repeat;
-background-size: 100% 100%;
-color: white;
-  }
+header  li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  font-family: "Lexend Mega", sans-serif;  
+  text-align: center;
+}
+
+header  li a:link { text-decoration: none;color:black; }
+header  li a:visited { text-decoration: none; color:black; }
+header  li a:hover { text-decoration: none; color:black; }
+header  li a:focus { text-decoration: none; color:black; }
+header  li a:hover, a:active { text-decoration: none; color:black;}
+
+p {
+  font-family: "Lexend Mega", sans-serif;
+}
+
+li {
+  font-family: "Lexend Mega", sans-serif;
+}
+
+h1 {
+ font-family: "Lexend Mega", sans-serif;
+}
+
+h2 {
+ font-family: "Lexend Mega", sans-serif;
+}
+
+h3 {
+ font-family: "Lexend Mega", sans-serif;
+}
+
+#header {
+  display: flex;
+  height: 300px;
+  background-image: url("https://media.istockphoto.com/id/1444369031/photo/3d-illustration-of-bayraktar-tb2-unmanned-combat-aerial-vehicle-ucav-frontal-close-up-view.webp?b=1&s=170667a&w=0&k=20&c=zL-YRwVqi1uU0VP6wAqLEUQjqJYQ3qcUvMIayuq8vrE=");
+  padding-top: 35px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
+
+
+
+
