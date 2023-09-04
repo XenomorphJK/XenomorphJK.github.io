@@ -53,8 +53,8 @@ h3 {
   background-repeat: no-repeat;
   background-size: 100%;
   color: white;
-  max-height:500px;
-  min-height:300px
+
+  max-width:700px;
 }
 
 #About {
@@ -65,16 +65,10 @@ h3 {
   background-repeat: no-repeat;
   background-size: 100%;
   color: white;
-  max-height:500px;
-  min-height:300px
+
+  max-width:700px;
 }
 
 #About p {
   background-color: transparent;
 }
-
-
-
-
-
-
