@@ -48,7 +48,7 @@ h3 {
 #header {
   display: flex;
   height: 300px;
-  background-image: url("https://media.istockphoto.com/id/1444369031/photo/3d-illustration-of-bayraktar-tb2-unmanned-combat-aerial-vehicle-ucav-frontal-close-up-view.webp?b=1&s=170667a&w=0&k=20&c=zL-YRwVqi1uU0VP6wAqLEUQjqJYQ3qcUvMIayuq8vrE=");
+  background-image: url("Images/UAV_2.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -61,7 +61,7 @@ h3 {
 #About {
   display: flex;
   height: 300px;
-  background-image: url("https://media.istockphoto.com/id/513602375/photo/take-off.jpg?s=612x612&w=0&k=20&c=lEaYT-tzodQyIsl2s-TV48wWD3Isq-tXYhpmVqEhG_g=");
+  background-image: url("Images/About.jpg");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -80,6 +80,39 @@ h3 {
   justify-content:flex-start;
 }
 
+#Vision {
+  display: flex;
+  height: 300px;
+  background-image: url("Images/Vision.jpg");
+  padding-top: 35px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  max-width:1000px;
+  min-width:500px;
+  text-align: right;
+}
+
+#Vision p {
+  background-color: transparent;
+}
+
+#Product {
+  display: flex;
+  height: 300px;
+  background-image: url("Images/F-16_sunset.jpg");
+  padding-top: 35px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  max-width:1000px;
+  min-width:500px;
+  text-align: right;
+}
+
+#Product p {
+  background-color: transparent;
+}
 
 
 
