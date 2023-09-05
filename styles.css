@@ -54,7 +54,8 @@ h3 {
   background-size: 100%;
   color: white;
 
-  max-width:700px;
+  max-width:1000px;
+  min-width:500px;
 }
 
 #About {
@@ -65,8 +66,9 @@ h3 {
   background-repeat: no-repeat;
   background-size: 100%;
   color: white;
-
-  max-width:700px;
+  max-width:1000px;
+  min-width:500px;
+  text-align: right;
 }
 
 #About p {
@@ -75,5 +77,13 @@ h3 {
 
 #Logo {
   display:flex;
-  justify-content:flex-end;
+  justify-content:flex-start;
 }
+
+
+
+
+
+
+
+
