@@ -1,3 +1,8 @@
+#Logo {
+  display:flex;
+  justify-content:flex-start;
+}
+
 header {
   color: white;  
   background-color: black;
@@ -45,49 +50,53 @@ h3 {
  font-family: "Lexend Mega", sans-serif;
 }
 
-#header {
+
+
+#Header {
   display: flex;
   height: 300px;
   background-image: url("Images/UAV_2.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
-  color: white;
+  color: whitesmoke;
 
   max-width:1000px;
   min-width:500px;
 }
 
+#Header p {
+  background-color: transparent;
+}
+
+
 #About {
   display: flex;
   height: 300px;
-  background-image: url("Images/About.jpg");
+  background-image: url("Images/About.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
-  color: white;
+  color: whitesmoke;
   max-width:1000px;
   min-width:500px;
   text-align: right;
 }
 
+
 #About p {
   background-color: transparent;
 }
 
-#Logo {
-  display:flex;
-  justify-content:flex-start;
-}
 
 #Vision {
   display: flex;
   height: 300px;
-  background-image: url("Images/Vision.jpg");
+  background-image: url("Images/Vision.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
-  color: white;
+  color: whitesmoke;
   max-width:1000px;
   min-width:500px;
   text-align: right;
@@ -97,6 +106,7 @@ h3 {
   background-color: transparent;
 }
 
+
 #Product {
   display: flex;
   height: 300px;
@@ -104,7 +114,7 @@ h3 {
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
-  color: white;
+  color: whitesmoke;
   max-width:1000px;
   min-width:500px;
   text-align: right;
@@ -115,8 +125,20 @@ h3 {
 }
 
 
+#Values {
+  display: flex;
+  height: 300px;
+  background-image: url("Images/UAV_1.png");
+  padding-top: 35px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: whitesmoke;
+  max-width:1000px;
+  min-width:500px;
+  text-align: right;
+}
 
-
-
-
+#Values p {
+  background-color: transparent;
+}
 
