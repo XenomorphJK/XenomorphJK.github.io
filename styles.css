@@ -73,7 +73,7 @@ h3 {
 #About {
   display: flex;
   height: 300px;
-  background-image: url("Images/About.png");
+  background-image: url("Images/About.jpg");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -92,7 +92,7 @@ h3 {
 #Vision {
   display: flex;
   height: 300px;
-  background-image: url("Images/Vision.png");
+  background-image: url("Images/Vision.jpg");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
