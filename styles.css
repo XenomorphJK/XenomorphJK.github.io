@@ -48,7 +48,7 @@ h3 {
 #header {
   display: flex;
   height: 300px;
-  background-image: url("https://media.istockphoto.com/id/1444369031/photo/3d-illustration-of-bayraktar-tb2-unmanned-combat-aerial-vehicle-ucav-frontal-close-up-view.webp?b=1&s=170667a&w=0&k=20&c=zL-YRwVqi1uU0VP6wAqLEUQjqJYQ3qcUvMIayuq8vrE=");
+  background-image: url("Images/UAV_1.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -60,7 +60,7 @@ h3 {
 #About {
   display: flex;
   height: 300px;
-  background-image: url("https://media.istockphoto.com/id/1174518179/photo/armed-unmanned-aerial-vehicle-on-runway.webp?b=1&s=170667a&w=0&k=20&c=0HQzNcArOy-sk-7K6gEL-JIOmdTVTIvuT905ruRmNes=");
+  background-image: url("Images/UAV_2.png");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
