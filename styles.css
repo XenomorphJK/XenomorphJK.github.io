@@ -16,7 +16,7 @@ header  li {
   text-align: center;
   color: white;  
 }
- 
+
 header  li a:link { text-decoration: none;color:white; }
 header  li a:visited { text-decoration: none; color:white; }
 header  li a:hover { text-decoration: none; color:white; }
@@ -48,7 +48,7 @@ h3 {
 #header {
   display: flex;
   height: 300px;
-  background-image: url("Images/UAV_1.png");
+  background-image: url("https://media.istockphoto.com/id/1444369031/photo/3d-illustration-of-bayraktar-tb2-unmanned-combat-aerial-vehicle-ucav-frontal-close-up-view.webp?b=1&s=170667a&w=0&k=20&c=zL-YRwVqi1uU0VP6wAqLEUQjqJYQ3qcUvMIayuq8vrE=");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -60,7 +60,7 @@ h3 {
 #About {
   display: flex;
   height: 300px;
-  background-image: url("Images/UAV_2.png");
+  background-image: url("https://media.istockphoto.com/id/513602375/photo/take-off.jpg?s=612x612&w=0&k=20&c=lEaYT-tzodQyIsl2s-TV48wWD3Isq-tXYhpmVqEhG_g=");
   padding-top: 35px;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -72,4 +72,8 @@ h3 {
 #About p {
   background-color: transparent;
 }
- 
+
+#Logo {
+  display:flex;
+  justify-content:flex-end;
+}
